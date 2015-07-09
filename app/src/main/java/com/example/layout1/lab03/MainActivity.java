@@ -7,6 +7,12 @@ import android.view.MenuItem;
 
 
 public class MainActivity extends ActionBarActivity {
+    
+    /**
+* Classe que faz: busca de outra classe os itens (realizando a validação) e retorna, também registrando a ação realizada.
+* @author Elaine.Martins
+* 
+*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
